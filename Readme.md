@@ -38,7 +38,7 @@ All of the following folders are projects done during the studies:
 | 
 
 ## Author :
-* **[kabeer Akanni](https://twitter.com/akannikabeer)** <[Aysuarex](https://github.com/kabeer-prog)>
+* **[kabeer Akanni](https://twitter.com/akannikabeer)** <(https://github.com/kabeer-prog)>
 
 ## Acknowledgements :
 
