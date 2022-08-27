@@ -1,4 +1,4 @@
-# Binary Trees
+### Binary Trees
 
 Module of **System engineering** and **Devops**, carried out during **Full Stack Software Engineering studies** at **[ALX](https://www.alxafrica.com/)**.
 
@@ -39,6 +39,7 @@ All of the following folders are projects done during the studies:
 
 ## Author :
 * **[kabeer Akanni](https://twitter.com/akannikabeer)** <(https://github.com/kabeer-prog)>
+
 
 ## Acknowledgements :
 
